@@ -183,25 +183,22 @@ npm run clean-sitemap
 5. **配置路由重写**: 在 `next.config.js` 中添加嵌入路由
 6. **添加游戏资源**: 在 `public/assets/[游戏名]/` 添加相关图片
 
-## 相关链接和资源
+### 相关链接和资源
 
-### 官方页面
+#### 官方页面
 - 🏠 **主页**: [SoFlo Wheelie Life 官方网站](https://www.soflowheelielife.dev/)
 - 📞 **联系我们**: [联系我们](https://www.soflowheelielife.dev/contact)
 - ℹ️ **关于我们**: [关于我们](https://www.soflowheelielife.dev/about)
 - 🔒 **隐私政策**: [隐私政策](https://www.soflowheelielife.dev/privacy-policy)
 - 📋 **服务条款**: [服务条款](https://www.soflowheelielife.dev/terms-of-service)
 
-### 外部链接 (Footer Quick Links)
-- 🐍 **Snake Game**: [在线贪吃蛇游戏](https://snake-game.online)
-- 📝 **Evernote**: [Evernote 笔记](https://lite.evernote.com/note/a7633e02-bcf7-d080-171a-a858eec4a9d2)
-- 📅 **CAL**: [Vincent AI 日历预约](https://cal.com/vincent-ai)
-- 💰 **Patreon**: [Patreon 支持页面](https://www.patreon.com/posts/crazy-cattle-3d-129397709)
-- 📌 **Pinterest**: [Pinterest 图片分享](https://www.pinterest.com/pin/581245895696208484/)
-- 🔗 **Linktr**: [Linktr 链接树](https://linktr.ee/vincent20250520)
-- 📰 **Substack**: [Substack 博客](https://substack.com/@vincent879601/posts)
-- 🎨 **Creem**: [Creem 创作平台](https://www.creem.io/bip/vincent-ai)
-- 💻 **CrazyCattle3d Github**: [项目英文文档](https://github.com/WeiWenxing/crazycattle3d/blob/main/README_EN.md)
+#### 外部链接 (Footer Quick Links)
+- 📝 **Telegram**: [Telegram 频道](https://t.me/isaac_free_games)
+- 📅 **CAL**: [Vincent AI 日历预约](https://cal.com/isaac-mingyu)
+- 💰 **Patreon**: [Patreon 支持页面](https://www.patreon.com/posts/144957222?pr=true)
+- 🔗 **Linktr**: [Linktr 链接树](https://linktr.ee/Isaac_mingyu)
+- 📌 **Pinterest**: [Pinterest 图片分享](https://pin.it/1tTYsCdmW)
+- 💻 **GitHub**: [SoFlo Wheelie Life GitHub 仓库](https://github.com/oumingyu-224/SoFlo-Wheelie-Life)
 
 ## AI 爬虫优化
 

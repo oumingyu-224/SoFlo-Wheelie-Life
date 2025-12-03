@@ -206,25 +206,22 @@ To add new games, follow these steps:
 5. **Configure Route Rewrites**: Add embed routes in `next.config.js`
 6. **Add Game Assets**: Add related images in `public/assets/[game-name]/`
 
-## Related Links and Resources
+### Related Links and Resources
 
-### Official Pages
+#### Official Pages
 - 🏠 **Homepage**: [SoFlo Wheelie Life Official Website](https://www.soflowheelielife.dev/)
 - 📞 **Contact Us**: [Contact Us](https://www.soflowheelielife.dev/contact)
 - ℹ️ **About Us**: [About Us](https://www.soflowheelielife.dev/about)
 - 🔒 **Privacy Policy**: [Privacy Policy](https://www.soflowheelielife.dev/privacy-policy)
 - 📋 **Terms of Service**: [Terms of Service](https://www.soflowheelielife.dev/terms-of-service)
 
-### External Links (Footer Quick Links)
-- 🐍 **Snake Game**: [Online Snake Game](https://snake-game.online)
-- 📝 **Evernote**: [Evernote Notes](https://lite.evernote.com/note/a7633e02-bcf7-d080-171a-a858eec4a9d2)
-- 📅 **CAL**: [Vincent AI Calendar Booking](https://cal.com/vincent-ai)
-- 💰 **Patreon**: [Patreon Support Page](https://www.patreon.com/posts/crazy-cattle-3d-129397709)
-- 📌 **Pinterest**: [Pinterest Image Sharing](https://www.pinterest.com/pin/581245895696208484/)
-- 🔗 **Linktr**: [Linktr Link Tree](https://linktr.ee/vincent20250520)
-- 📰 **Substack**: [Substack Blog](https://substack.com/@vincent879601/posts)
-- 🎨 **Creem**: [Creem Creative Platform](https://www.creem.io/bip/vincent-ai)
-- 💻 **CrazyCattle3d Github**: [Project English Documentation](https://github.com/WeiWenxing/crazycattle3d/blob/main/README_EN.md)
+#### External Links (Footer Quick Links)
+- 📝 **Telegram**: [Telegram Channel](https://t.me/isaac_free_games)
+- 📅 **CAL**: [Vincent AI Calendar Booking](https://cal.com/isaac-mingyu)
+- 💰 **Patreon**: [Patreon Support Page](https://www.patreon.com/posts/144957222?pr=true)
+- 🔗 **Linktr**: [Linktr Link Tree](https://linktr.ee/Isaac_mingyu)
+- 📌 **Pinterest**: [Pinterest Image Sharing](https://pin.it/1tTYsCdmW)
+- 💻 **GitHub**: [SoFlo Wheelie Life GitHub Repository](https://github.com/oumingyu-224/SoFlo-Wheelie-Life)
 
 ## AI Crawler Optimization
 

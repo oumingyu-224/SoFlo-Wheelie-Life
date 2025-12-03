@@ -1,121 +1,72 @@
-# Crazy Cattle 3D - Comprehensive Game Information
+# SoFlo Wheelie Life - Comprehensive Game Information
 
-> Crazy Cattle 3D is a free online browser game where you control crazy cattle in a physics-based 3D action environment. Play instantly without download, directly in your web browser.
+> SoFlo Wheelie Life is a free online browser game where you perform motorcycle stunts and wheelies in a physics-based 3D action environment. Play instantly without download, directly in your web browser.
 
 ## Game Overview
 
-Crazy Cattle 3D is an independently developed battle royale game featuring explosive physics-based gameplay. Unlike traditional battle royale games that focus on weapon collection, Crazy Cattle 3D creates a unique gaming experience through momentum and collision mechanics.
+SoFlo Wheelie Life is a motorcycle stunt game featuring physics-based gameplay. Unlike traditional racing games, SoFlo Wheelie Life focuses on balance and trick mechanics, creating a unique gaming experience centered around performing wheelies and stunts in the streets of South Florida.
 
-The game offers three distinct environments: the rolling hills of Ireland, volcanic Iceland, and mountainous New Zealand. Each map provides unique strategic opportunities and terrain challenges. Players control explosive sheep (despite the "cattle" name) and must master momentum-based attacks to eliminate opponents.
+The game offers multiple distinct environments representing areas of South Florida. Each map provides unique strategic opportunities and terrain challenges. Players must master balance and timing to perform successful wheelies and stunts.
 
 While the learning curve may be steep for newcomers, the game's physics system delivers a deeply satisfying experience once mastered. The game requires no downloads and runs directly in modern web browsers, making it accessible from virtually any device with sufficient processing power.
 
 ## Game Versions
 
-### Crazy Cattle 3D
-The original version features the complete physics-based battle royale experience. This version includes:
-- Full 3D environments across three distinct maps
-- Complete physics engine with realistic momentum and collision effects
-- Single-player mode with AI opponents
+### SoFlo Wheelie Life
+The main version features the complete physics-based motorcycle stunt experience. This version includes:
+- Full 3D environments representing South Florida locations
+- Complete physics engine with realistic bike balance and momentum effects
+- Single-player mode with various challenges
 - High score tracking and achievements
 - Optimized performance for browser-based gameplay
 
-URL: https://crazy-cattle.net
+URL: https://www.soflowheelielife.dev
 
-### Crazy Cow 3D
-An alternative version with a focus on hilarious physics-based mayhem rather than competitive gameplay. This version includes:
-- Simplified controls for casual players
-- Emphasis on comedic physics interactions
-- Reduced difficulty curve for beginners
-- More forgiving gameplay mechanics
-- Same browser-based, no-download approach
+### Street Wheelie
+A street motorcycle stunt game with challenging levels:
+- Urban environment challenges
+- Complex trick combinations
+- Progressive difficulty system
+- Unique obstacle courses
+- Browser-based, no-download, unblocked gameplay
 
-URL: https://www.soflowheelielife.dev/crazy-cow-3d
+URL: https://www.soflowheelielife.dev/street-wheelie
 
-### Cheese Chompers 3D
-A rat-themed knockout game that combines physics-based action with cheese collecting mechanics:
-- Control a goofy rat character in chaotic arena battles
-- Knock other players off the platform to be the last rat standing
-- Collect cheese for speed boosts and special abilities
-- Physics-based collisions and momentum mechanics
-- Fast-paced, unblocked gameplay for instant fun
+### Stickman Bike
+A stickman bicycle game with physics-based challenges:
+- Minimalist stickman character
+- Bicycle physics challenges
+- Varied terrain and obstacles
+- Simple but addictive gameplay
+- Browser-based, no-download, unblocked gameplay
 
-URL: https://www.soflowheelielife.dev/cheese-chompers-3d
+URL: https://www.soflowheelielife.dev/stickman-bike
 
-### Italian Brainrot Clicker
-Italian Brainrot Clicker is an intense, free online incremental game that hilariously combines the energy of viral memes with addictive clicker gameplay. Play unblocked and dive into the surreal Italian Brainrot trend! This version includes:
-- Simple and intuitive click-based gameplay
-- Multiple themes and stages to unlock
-- Upgrade system to enhance clicking power and automate clicks
-- Power-ups for temporary boosts
-- Endless mode for high score chasing
-- Browser-based, no-download, unblocked fun
+### Wheelie Life
+Classic motorcycle wheelie game with multiple tracks:
+- Traditional wheelie gameplay
+- Multiple track environments
+- Score-based challenges
+- Intuitive controls
+- Browser-based, no-download, unblocked gameplay
 
-URL: https://www.soflowheelielife.dev/brainrot-clicker
-
-### Basketball Bros Unblocked
-Basketball Bros Unblocked is an exciting and fun free online basketball game. Play unblocked and enjoy fast-paced matches with unique characters and abilities. It's a great game for quick fun or competitive play against friends. This game offers a unique take on basketball with quirky characters and exaggerated physics. Perfect for anyone looking for a casual sports game experience.
-This version includes:
-- Exciting Basketball Action: Experience thrilling basketball gameplay with unique characters and moves.
-- Play With Friends: Challenge your friends in local multiplayer mode.
-- Unlockable Characters and Content: Discover and unlock a variety of characters, courts, and more.
-- Simple Controls, Deep Gameplay: Easy to learn controls with enough depth to keep you engaged.
-- Instant Fun, No Downloads: Play directly in your browser.
-
-URL: https://www.soflowheelielife.dev/basketball-bros-unblocked
-
-### Pokemon Gamma Emerald
-Pokemon Gamma Emerald is a fan-made Pokemon adventure with enhanced features and new content. This version includes:
-- Expanded Pokedex with new Pokemon variants
-- Updated battle mechanics and abilities
-- New regions and storylines to explore
-- Enhanced graphics and animations
-- Additional post-game content
-- Browser-based gameplay with no downloads required
-
-URL: https://www.soflowheelielife.dev/pokemon-gamma-emerald
-
-### Crazy Chicken 3D
-Crazy Chicken 3D is a new addition to our game offerings.
-- It features unique gameplay mechanics.
-- There are special power - ups for an exciting experience.
-URL: https://www.soflowheelielife.dev/crazy-chicken-3d
-
-### Sprunki Incredibox
-Sprunki Incredibox is an innovative, free online music creation game that lets you become a music producer with just a few clicks. This interactive unblocked game combines the joy of music-making with colorful, animated characters. This version includes:
-- Interactive Music Creation: Create amazing beats and melodies by dragging and dropping colorful characters
-- Colorful Character Cast: Each character brings unique sounds, beats, and melodies to your compositions
-- Easy Drag-and-Drop Interface: Intuitive controls perfect for all ages
-- Share Your Musical Creations: Record and share your musical compositions with friends
-- Endless Musical Possibilities: Unlimited creative potential with multiple sound layers and character combinations
-- Browser-based gameplay with no downloads required
-
-URL: https://www.soflowheelielife.dev/sprunki-incredibox
-
-### Futbol Libre
-Futbol Libre is a free online streaming service that provides access to live football matches from various leagues and tournaments worldwide. It offers a simple and direct way to enjoy your favorite sport without subscriptions or downloads. This version includes:
-- Live Football Matches: Watch games as they happen from around the world.
-- Wide Range of Leagues: Access to major leagues and international tournaments.
-- High-Quality Streaming: Enjoy stable and high-quality video streams.
-- User-Friendly Interface: Easily navigate and find the match you want to watch.
-- No Downloads or Subscriptions: Free and instant access to football action.
-
-URL: https://www.soflowheelielife.dev/futbol-libre
+URL: https://www.soflowheelielife.dev/wheelie-life
 
 ## How To Play
 
 ### Controls
-- WASD Keys: Movement controls for directing your cattle
-- Mouse: Precise steering and aiming
-- Space Bar: Trigger special collision ability (timing is crucial)
-- Shift Key: Speed boost (limited usage)
+- Arrow Keys: Movement controls for balancing and steering
+- Up Arrow: Accelerate and lift front wheel for wheelie
+- Down Arrow: Brake and shift weight forward
+- Left/Right Arrows: Steer the motorcycle
+- Space Bar: Perform special tricks (when in air)
 
 ### Gameplay Tips
-1. Master momentum by building speed before collisions
-2. Use terrain elevation for strategic advantage
-3. Time your special abilities to maximize impact
+1. Master balance by gradually lifting the front wheel
+2. Use throttle control to maintain wheelie balance
+3. Time your landings for smooth transitions
 4. Learn each environment's unique features
-5. Practice movement control before attempting competitive play
+5. Practice trick combinations for higher scores
 
 Detailed guide: https://www.soflowheelielife.dev/#how-to-play
 
@@ -137,29 +88,25 @@ Detailed guide: https://www.soflowheelielife.dev/#how-to-play
 
 ## Frequently Asked Questions
 
-### Is Crazy Cattle 3D difficult for beginners?
-The game has a learning curve due to its physics-based mechanics. New players should expect to spend 30-60 minutes mastering the basic controls. The tutorial mode helps ease this process, and the Crazy Cow 3D version offers a more accessible experience for casual players.
+### Is SoFlo Wheelie Life difficult for beginners?
+The game has a learning curve due to its physics-based mechanics. New players should expect to spend 30-60 minutes mastering the basic controls. The tutorial mode helps ease this process, and starting with easier levels can help build skills progressively.
 
 ### Does the game require installation?
-No. Crazy Cattle 3D runs entirely in your web browser. There are no downloads, installations, or plugins required. Simply visit the website and start playing immediately.
+No. SoFlo Wheelie Life runs entirely in your web browser. There are no downloads, installations, or plugins required. Simply visit the website and start playing immediately.
 
-### Is Crazy Cattle 3D free to play?
+### Is SoFlo Wheelie Life free to play?
 Yes, the game is completely free. There are no paywalls, premium features, or in-game purchases. All game content is accessible to all players.
 
-### What makes Crazy Cattle 3D different from other online games?
-The game's unique physics engine creates gameplay focused on momentum and collision rather than traditional shooting or resource collection. This creates unpredictable and often hilarious gameplay moments that are rare in other browser-based games.
+### What makes SoFlo Wheelie Life different from other online games?
+The game's unique physics engine creates gameplay focused on balance and trick performance rather than traditional racing or combat. This creates a unique and challenging experience focused on skill development.
 
 Complete FAQ: https://www.soflowheelielife.dev/#faq
 
 ## Related Resources
 
-### Blue Prince Guide
-A comprehensive gaming guide website with additional tips and strategies for physics-based games including Crazy Cattle 3D.
-URL: https://blue-prince.net
-
-### AI Image Generator
-A free tool for creating custom game-related images and avatars.
-URL: https://aiimage.pics
+### Contact Us
+Get in touch with the development team for feedback or support.
+URL: https://www.soflowheelielife.dev/contact
 
 ### Other Free Online Games
 Discover more browser-based games that require no download.
@@ -172,5 +119,5 @@ Our privacy policy details how we collect, use, and protect user data. The game 
 URL: https://www.soflowheelielife.dev/privacy-policy
 
 ### Terms of Service
-Our terms outline the rules and guidelines for using the Crazy Cattle 3D website and game.
+Our terms outline the rules and guidelines for using the SoFlo Wheelie Life website and game.
 URL: https://www.soflowheelielife.dev/terms-of-service

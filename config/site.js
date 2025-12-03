@@ -1,7 +1,7 @@
 export const siteConfig = {
   name: "SoFlo Wheelie Life",
   description: "Experience motorcycle stunts on the streets of South Florida in SoFlo Wheelie Life, where you challenge yourself to wheelie.Enjoy the thrill of balance!",
-  domain: "soFlowheelielife",
+  domain: "soFlowheelielife.dev",
   url: "https://www.soflowheelielife.dev/",
   email: "support@soflowheelielife.dev",
   author: "SoFlo Wheelie Life",

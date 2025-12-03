@@ -48,7 +48,7 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  const gaId = process.env.NEXT_PUBLIC_GA_ID;
+  const gaId = 'G-NCV73ESFSG';
 
   return (
     <html lang="en">
@@ -78,6 +78,8 @@ export default function RootLayout({
             </Script>
           </>
         )}
+
+        
       </head>
       <body className={inter.className}>{children}</body>
     </html>

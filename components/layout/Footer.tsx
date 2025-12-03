@@ -177,6 +177,9 @@ export function Footer() {
 
         </div>
       </div>
+
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6760379174262614"
+     crossOrigin="anonymous"></script>
     </footer>
   );
 }

@@ -60,9 +60,12 @@ export default function RootLayout({
         {/* <link rel="mask-icon" href={siteConfig.images.icon.safari} color="#5bbad5" /> */}
         <link rel="shortcut icon" href={siteConfig.images.icon.favicon} />
         <meta name="theme-color" content={siteConfig.metadata.themeColor} />
+
+        <meta name="google-adsense-account" content="ca-pub-6760379174262614"></meta>
         {/* Google Analytics - 只在有GA ID时加载 */}
         {gaId && (
           <>
+
             <Script
               src={`https://www.googletagmanager.com/gtag/js?id=${gaId}`}
               strategy="afterInteractive"

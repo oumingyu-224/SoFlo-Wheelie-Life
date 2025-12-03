@@ -1,29 +1,25 @@
-# Crazy Cattle 3D 游戏网站
+# SoFlo Wheelie Life 游戏网站
 
-🎮 **官方网站**: [Crazy Cattle 3D 官方网站](https://crazy-cattle.net/)
+🎮 **官方网站**: [SoFlo Wheelie Life 官方网站](https://www.soflowheelielife.dev/)
 
 📖 **English Version**: [README_EN.md](./README_EN.md)
 
-这是 Crazy Cattle 3D 游戏的官方网站项目，基于 Next.js 构建。该网站提供多款游戏嵌入、游戏信息展示以及针对搜索引擎和 AI 爬虫的优化。
+这是 SoFlo Wheelie Life 游戏的官方网站项目，基于 Next.js 构建。该网站提供多款游戏嵌入、游戏信息展示以及针对搜索引擎和 AI 爬虫的优化。
 
 ## 项目概述
 
-Crazy Cattle 3D 是一款基于物理引擎的 3D 动作游戏，可直接在浏览器中运行，无需下载安装。本项目是游戏的官方网站，现已扩展为多游戏平台，提供7款不同类型的浏览器游戏。
+SoFlo Wheelie Life 是一款基于物理引擎的摩托车特技游戏，可直接在浏览器中运行，无需下载安装。本项目是游戏的官方网站，现已扩展为多游戏平台，提供多种不同类型的浏览器游戏。
 
 ### 支持的游戏列表
 
-1. **[Crazy Cattle 3D](https://crazy-cattle.net/)** - 主要游戏，物理引擎3D动作游戏
-2. **[Crazy Cow 3D](https://crazy-cattle.net/crazy-cow-3d)** - 疯狂奶牛版本，物理引擎混乱玩法
-3. **[Cheese Chompers 3D](https://crazy-cattle.net/cheese-chompers-3d)** - 老鼠主题淘汰赛游戏
-4. **[Italian Brainrot Clicker](https://crazy-cattle.net/brainrot-clicker)** - 意大利梗点击游戏
-5. **[Basketball Bros Unblocked](https://crazy-cattle.net/basketball-bros-unblocked)** - 篮球动作游戏
-6. **[Pokemon Gamma Emerald](https://crazy-cattle.net/pokemon-gamma-emerald)** - 宝可梦同人增强版
-7. **[Crazy Chicken 3D](https://crazy-cattle.net/crazy-chicken-3d)** - 疯狂小鸡物理战斗游戏
-8. **[Futbol Libre](https://crazy-cattle.net/futbol-libre)** - 免费在线观看足球直播
+1. **[SoFlo Wheelie Life](https://www.soflowheelielife.dev/)** - 主要游戏，物理引擎3D动作游戏
+2. **[Street Wheelie](https://www.soflowheelielife.dev/street-wheelie)** - 街头摩托车特技游戏
+3. **[Stickman Bike](https://www.soflowheelielife.dev/stickman-bike)** - 火柴人自行车游戏
+4. **[Wheelie Life](https://www.soflowheelielife.dev/wheelie-life)** - 摩托车翘头游戏
 
 ### 主要功能
 
-- **多游戏嵌入与展示** - 支持7款不同类型的浏览器游戏
+- **多游戏嵌入与展示** - 支持多种不同类型的浏览器游戏
 - **统一游戏页面模板** - 每个游戏都有完整的介绍、特性、玩法和FAQ
 - **游戏特性、玩法和 FAQ 介绍** - 详细的游戏指南和常见问题解答
 - **针对搜索引擎优化 (SEO)** - 完整的meta标签和结构化数据
@@ -47,19 +43,16 @@ Crazy Cattle 3D 是一款基于物理引擎的 3D 动作游戏，可直接在浏
 ```
 /
 ├── app/                    # Next.js 应用目录 (App Router)
-│   ├── crazy-cow-3d/       # Crazy Cow 3D 游戏页面
-│   ├── crazy-chicken-3d/   # Crazy Chicken 3D 游戏页面
-│   ├── cheese-chompers-3d/ # Cheese Chompers 3D 游戏页面
-│   ├── brainrot-clicker/   # Italian Brainrot Clicker 游戏页面
-│   ├── basketball-bros-unblocked/ # Basketball Bros 游戏页面
-│   ├── pokemon-gamma-emerald/     # Pokemon Gamma Emerald 游戏页面
+│   ├── street-wheelie/     # Street Wheelie 游戏页面
+│   ├── stickman-bike/      # Stickman Bike 游戏页面
+│   ├── wheelie-life/       # Wheelie Life 游戏页面
 │   ├── games/              # 游戏列表和数据配置
 │   ├── about/              # 关于页面
 │   ├── contact/            # 联系页面
 │   ├── privacy-policy/     # 隐私政策页面
 │   ├── terms-of-service/   # 服务条款页面
 │   ├── layout.tsx          # 全局布局
-│   ├── page.tsx            # 首页 (Crazy Cattle 3D)
+│   ├── page.tsx            # 首页 (SoFlo Wheelie Life)
 │   ├── schema.ts           # 结构化数据配置
 │   └── globals.css         # 全局样式
 ├── components/             # React 组件库
@@ -83,21 +76,15 @@ Crazy Cattle 3D 是一款基于物理引擎的 3D 动作游戏，可直接在浏
 ├── lib/                    # 工具函数库
 ├── public/                 # 静态资源
 │   ├── assets/             # 图片和其他资源
-│   │   ├── crazy-cow-3d/   # Crazy Cow 3D 相关图片
-│   │   ├── crazy-chicken-3d/ # Crazy Chicken 3D 相关图片
-│   │   ├── cheese-chompers-3d/ # Cheese Chompers 3D 相关图片
-│   │   ├── brainrot-clicker/ # Brainrot Clicker 相关图片
-│   │   ├── basketball-bros-unblocked/ # Basketball Bros 相关图片
-│   │   ├── pokemon-gamma-emerald/ # Pokemon 相关图片
+│   │   ├── street-wheelie/ # Street Wheelie 相关图片
+│   │   ├── stickman-bike/  # Stickman Bike 相关图片
+│   │   ├── wheelie-life/   # Wheelie Life 相关图片
 │   │   └── img/            # 站点通用图片
 │   ├── game/               # 游戏文件目录
-│   │   ├── crazycattle3d/  # Crazy Cattle 3D 游戏文件
-│   │   ├── crazycow3d/     # Crazy Cow 3D 游戏文件
-│   │   ├── crazy-chicken-3d/ # Crazy Chicken 3D 游戏文件
-│   │   ├── cheesechompers3d/ # Cheese Chompers 3D 游戏文件
-│   │   ├── brainrot-clicker/ # Brainrot Clicker 游戏文件
-│   │   ├── basketball-bros-unblocked/ # Basketball Bros 游戏文件
-│   │   └── pokemon-gamma-emerald/ # Pokemon 游戏文件
+│   │   ├── soFlowheelielife/  # SoFlo Wheelie Life 游戏文件
+│   │   ├── streetWheelie/     # Street Wheelie 游戏文件
+│   │   ├── stickmanbike/      # Stickman Bike 游戏文件
+│   │   └── wheelielife/       # Wheelie Life 游戏文件
 │   ├── llms.txt            # AI 爬虫专用内容摘要
 │   ├── llms-full.txt       # AI 爬虫专用完整内容
 │   ├── robots.txt          # 搜索引擎爬虫规则
@@ -178,13 +165,10 @@ npm run clean-sitemap
 
 网站通过 iframe 嵌入游戏，每个游戏都有对应的嵌入路由：
 
-- `/crazy-cattle-3d.embed` → `/game/crazycattle3d/index.html`
-- `/crazy-cow-3d.embed` → `/game/crazycow3d/index.html`
-- `/cheese-chompers-3d.embed` → `/game/cheesechompers3d/index.html`
-- `/brainrot-clicker.embed` → `/game/brainrot-clicker/index.html`
-- `/basketball-bros-unblocked.embed` → `/game/basketball-bros-unblocked/index.html`
-- `/pokemon-gamma-emerald.embed` → `/game/pokemon-gamma-emerald/index.html`
-- `/crazy-chicken-3d.embed` → `/game/crazy-chicken-3d/index.html`
+- `/soflo-wheelie-life.embed` → `/game/soFlowheelielife/index.html`
+- `/street-wheelie.embed` → `/game/streetWheelie/index.html`
+- `/stickman-bike.embed` → `/game/stickmanbike/index.html`
+- `/wheelie-life.embed` → `/game/wheelielife/index.html`
 
 详细的游戏本地化部署指南可参考 `IFRAME_DOWNLOAD_README.md`。
 
@@ -202,11 +186,11 @@ npm run clean-sitemap
 ## 相关链接和资源
 
 ### 官方页面
-- 🏠 **主页**: [Crazy Cattle 3D 官方网站](https://crazy-cattle.net/)
-- 📞 **联系我们**: [联系我们](https://crazy-cattle.net/contact)
-- ℹ️ **关于我们**: [关于我们](https://crazy-cattle.net/about)
-- 🔒 **隐私政策**: [隐私政策](https://crazy-cattle.net/privacy-policy)
-- 📋 **服务条款**: [服务条款](https://crazy-cattle.net/terms-of-service)
+- 🏠 **主页**: [SoFlo Wheelie Life 官方网站](https://www.soflowheelielife.dev/)
+- 📞 **联系我们**: [联系我们](https://www.soflowheelielife.dev/contact)
+- ℹ️ **关于我们**: [关于我们](https://www.soflowheelielife.dev/about)
+- 🔒 **隐私政策**: [隐私政策](https://www.soflowheelielife.dev/privacy-policy)
+- 📋 **服务条款**: [服务条款](https://www.soflowheelielife.dev/terms-of-service)
 
 ### 外部链接 (Footer Quick Links)
 - 🐍 **Snake Game**: [在线贪吃蛇游戏](https://snake-game.online)
@@ -272,4 +256,4 @@ vercel env add NEXT_PUBLIC_GA_ID
 
 ## 许可证
 
-© 2025 Crazy Cattle 3D. 保留所有权利。
+© 2025 SoFlo Wheelie Life. 保留所有权利。

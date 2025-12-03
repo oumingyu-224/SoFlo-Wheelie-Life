@@ -1,49 +1,44 @@
-# Crazy Cattle 3D Game Website
+# SoFlo Wheelie Life Game Website
 
-🎮 **Official Website**: [Crazy Cattle 3D Official Website](https://crazy-cattle.net/)
+🎮 **Official Website**: [SoFlo Wheelie Life Official Website](https://www.soflowheelielife.dev/)
 
 📖 **中文版本**: [README.md](./README.md)
 
-This is the official website project for Crazy Cattle 3D game, built with Next.js. The website provides multiple game embeds, game information display, and optimization for search engines and AI crawlers.
+This is the official website project for SoFlo Wheelie Life game, built with Next.js. The website provides multiple game embeds, game information display, and optimization for search engines and AI crawlers.
 
 ## Project Overview
 
-Crazy Cattle 3D is a physics-based 3D action game that runs directly in browsers without downloads. This project is the official website for the game, now expanded into a multi-game platform offering multiple different types of browser games.
+SoFlo Wheelie Life is a physics-based 3D motorcycle stunt game that runs directly in browsers without downloads. This project is the official website for the game, now expanded into a multi-game platform offering multiple different types of browser games.
 
 ## About the Game
 
-**Crazy Cattle 3D** is an independently developed free online battle royale game featuring explosive physics-based gameplay. Unlike traditional battle royales that focus on weapon collection, Crazy Cattle 3D emphasizes momentum and collision mechanics, creating a unique and chaotic gaming experience.
+**SoFlo Wheelie Life** is an independently developed free online motorcycle stunt game featuring explosive physics-based gameplay. Unlike traditional racing games that focus on speed, SoFlo Wheelie Life emphasizes balance and stunt mechanics, creating a unique and thrilling gaming experience.
 
 ### Game Highlights
 
-🎮 **Physics-Based Combat**: Master authentic cattle movement with a groundbreaking physics engine designed for realistic environmental interactions and precise collision detection.
+🎮 **Physics-Based Gameplay**: Master authentic motorcycle control with a groundbreaking physics engine designed for realistic environmental interactions and precise balance mechanics.
 
-🌍 **Three Battle Environments**: Fight across Ireland's rolling hills, Iceland's volcanic terrain, and New Zealand's mountainous landscapes - each offering unique strategic opportunities.
+🌍 **Urban Playground**: Perform stunts in the vibrant streets of South Florida with varied terrains and challenging obstacles.
 
-⚡ **Skill-Based Progression**: No paid advantages, just pure tactical gameplay. Perfect your timing for devastating impacts and strategic positioning.
+⚡ **Skill-Based Progression**: No paid advantages, just pure skill-based gameplay. Perfect your timing for perfect wheelies and stylish landings.
 
-🎯 **Easy to Learn, Hard to Master**: Intuitive WASD controls with mouse steering, but deep mechanics reward advanced techniques and strategic thinking.
+🎯 **Easy to Learn, Hard to Master**: Intuitive controls with mouse steering, but deep mechanics reward advanced techniques and strategic thinking.
 
-### Why Play Crazy Cattle 3D?
+### Why Play SoFlo Wheelie Life?
 
 - **Free & Unblocked**: Play instantly in your browser without downloads
 - **Cross-Platform**: Compatible with Windows, Mac, Linux, and mobile devices
-- **Unique Gameplay**: Experience physics-based battle royale like no other game
+- **Unique Gameplay**: Experience physics-based motorcycle stunts like no other game
 - **Regular Updates**: Continuously improved with new features and optimizations
 
-The game delivers 30-minute matches of pure explosive action, where strategic positioning matters more than aggressive charging. Whether you're a newcomer learning the basics or a veteran mastering advanced techniques, Crazy Cattle 3D offers consistently engaging combat scenarios that keep you coming back for more.
+The game delivers exciting stunt action, where balance and timing matter more than speed. Whether you're a newcomer learning the basics or a veteran mastering advanced techniques, SoFlo Wheelie Life offers consistently engaging gameplay that keeps you coming back for more.
 
 ### Supported Games List
 
-1. **[Crazy Cattle 3D](https://crazy-cattle.net/)** - Main game, physics-based 3D action game
-2. **[Crazy Cow 3D](https://crazy-cattle.net/crazy-cow-3d)** - Crazy cow version with physics-based chaotic gameplay
-3. **[Cheese Chompers 3D](https://crazy-cattle.net/cheese-chompers-3d)** - Rat-themed knockout game
-4. **[Italian Brainrot Clicker](https://crazy-cattle.net/brainrot-clicker)** - Italian meme clicker game
-5. **[Basketball Bros Unblocked](https://crazy-cattle.net/basketball-bros-unblocked)** - Basketball action game
-6. **[Pokemon Gamma Emerald](https://crazy-cattle.net/pokemon-gamma-emerald)** - Enhanced Pokemon fan-made version
-7. **[Crazy Chicken 3D](https://crazy-cattle.net/crazy-chicken-3d)** - Crazy chicken physics battle game
-8. **[Sprunki Incredibox](https://crazy-cattle.net/sprunki-incredibox)** - Interactive music creation fan-mod game
-9. **[Futbol Libre](https://crazy-cattle.net/futbol-libre)** - Watch live football matches online for free.
+1. **[SoFlo Wheelie Life](https://www.soflowheelielife.dev/)** - Main game, physics-based 3D motorcycle stunt game
+2. **[Street Wheelie](https://www.soflowheelielife.dev/street-wheelie)** - Street motorcycle stunt game
+3. **[Stickman Bike](https://www.soflowheelielife.dev/stickman-bike)** - Stickman bike game
+4. **[Wheelie Life](https://www.soflowheelielife.dev/wheelie-life)** - Motorcycle wheelie game
 
 ### Main Features
 
@@ -71,20 +66,16 @@ The game delivers 30-minute matches of pure explosive action, where strategic po
 ```
 /
 ├── app/                    # Next.js App Directory (App Router)
-│   ├── crazy-cow-3d/       # Crazy Cow 3D game page
-│   ├── crazy-chicken-3d/   # Crazy Chicken 3D game page
-│   ├── cheese-chompers-3d/ # Cheese Chompers 3D game page
-│   ├── brainrot-clicker/   # Italian Brainrot Clicker game page
-│   ├── basketball-bros-unblocked/ # Basketball Bros game page
-│   ├── pokemon-gamma-emerald/     # Pokemon Gamma Emerald game page
-│   ├── sprunki-incredibox/ # Sprunki Incredibox game page
+│   ├── street-wheelie/     # Street Wheelie game page
+│   ├── stickman-bike/      # Stickman Bike game page
+│   ├── wheelie-life/       # Wheelie Life game page
 │   ├── games/              # Game list and data configuration
 │   ├── about/              # About page
 │   ├── contact/            # Contact page
 │   ├── privacy-policy/     # Privacy policy page
 │   ├── terms-of-service/   # Terms of service page
 │   ├── layout.tsx          # Global layout
-│   ├── page.tsx            # Homepage (Crazy Cattle 3D)
+│   ├── page.tsx            # Homepage (SoFlo Wheelie Life)
 │   ├── schema.ts           # Structured data configuration
 │   └── globals.css         # Global styles
 ├── components/             # React component library
@@ -108,23 +99,15 @@ The game delivers 30-minute matches of pure explosive action, where strategic po
 ├── lib/                    # Utility function library
 ├── public/                 # Static assets
 │   ├── assets/             # Images and other resources
-│   │   ├── crazy-cow-3d/   # Crazy Cow 3D related images
-│   │   ├── crazy-chicken-3d/ # Crazy Chicken 3D related images
-│   │   ├── cheese-chompers-3d/ # Cheese Chompers 3D related images
-│   │   ├── brainrot-clicker/ # Brainrot Clicker related images
-│   │   ├── basketball-bros-unblocked/ # Basketball Bros related images
-│   │   ├── pokemon-gamma-emerald/ # Pokemon related images
-│   │   ├── sprunki-incredibox/ # Sprunki Incredibox related images
+│   │   ├── street-wheelie/ # Street Wheelie related images
+│   │   ├── stickman-bike/  # Stickman Bike related images
+│   │   ├── wheelie-life/   # Wheelie Life related images
 │   │   └── img/            # Site common images
 │   ├── game/               # Game files directory
-│   │   ├── crazycattle3d/  # Crazy Cattle 3D game files
-│   │   ├── crazycow3d/     # Crazy Cow 3D game files
-│   │   ├── crazy-chicken-3d/ # Crazy Chicken 3D game files
-│   │   ├── cheesechompers3d/ # Cheese Chompers 3D game files
-│   │   ├── brainrot-clicker/ # Brainrot Clicker game files
-│   │   ├── basketball-bros-unblocked/ # Basketball Bros game files
-│   │   ├── pokemon-gamma-emerald/ # Pokemon game files
-│   │   └── sprunki-incredibox/ # Sprunki Incredibox game files
+│   │   ├── soFlowheelielife/  # SoFlo Wheelie Life game files
+│   │   ├── streetWheelie/     # Street Wheelie game files
+│   │   ├── stickmanbike/      # Stickman Bike game files
+│   │   └── wheelielife/       # Wheelie Life game files
 │   ├── llms.txt            # AI crawler dedicated content summary
 │   ├── llms-full.txt       # AI crawler dedicated full content
 │   ├── robots.txt          # Search engine crawler rules
@@ -205,14 +188,10 @@ npm run clean-sitemap
 
 The website embeds games through iframe, each game has corresponding embed routes:
 
-- `/crazy-cattle-3d.embed` → `/game/crazycattle3d/index.html`
-- `/crazy-cow-3d.embed` → `/game/crazycow3d/index.html`
-- `/cheese-chompers-3d.embed` → `/game/cheesechompers3d/index.html`
-- `/brainrot-clicker.embed` → `/game/brainrot-clicker/index.html`
-- `/basketball-bros-unblocked.embed` → `/game/basketball-bros-unblocked/index.html`
-- `/pokemon-gamma-emerald.embed` → `/game/pokemon-gamma-emerald/index.html`
-- `/crazy-chicken-3d.embed` → `/game/crazy-chicken-3d/index.html`
-- `/sprunki-incredibox.embed` → `/game/sprunki-incredibox/index.html`
+- `/soflo-wheelie-life.embed` → `/game/soFlowheelielife/index.html`
+- `/street-wheelie.embed` → `/game/streetWheelie/index.html`
+- `/stickman-bike.embed` → `/game/stickmanbike/index.html`
+- `/wheelie-life.embed` → `/game/wheelielife/index.html`
 
 For detailed game localization deployment guide, refer to `IFRAME_DOWNLOAD_README.md`.
 
@@ -230,11 +209,11 @@ To add new games, follow these steps:
 ## Related Links and Resources
 
 ### Official Pages
-- 🏠 **Homepage**: [Crazy Cattle 3D Official Website](https://crazy-cattle.net/)
-- 📞 **Contact Us**: [Contact Us](https://crazy-cattle.net/contact)
-- ℹ️ **About Us**: [About Us](https://crazy-cattle.net/about)
-- 🔒 **Privacy Policy**: [Privacy Policy](https://crazy-cattle.net/privacy-policy)
-- 📋 **Terms of Service**: [Terms of Service](https://crazy-cattle.net/terms-of-service)
+- 🏠 **Homepage**: [SoFlo Wheelie Life Official Website](https://www.soflowheelielife.dev/)
+- 📞 **Contact Us**: [Contact Us](https://www.soflowheelielife.dev/contact)
+- ℹ️ **About Us**: [About Us](https://www.soflowheelielife.dev/about)
+- 🔒 **Privacy Policy**: [Privacy Policy](https://www.soflowheelielife.dev/privacy-policy)
+- 📋 **Terms of Service**: [Terms of Service](https://www.soflowheelielife.dev/terms-of-service)
 
 ### External Links (Footer Quick Links)
 - 🐍 **Snake Game**: [Online Snake Game](https://snake-game.online)
@@ -300,4 +279,4 @@ vercel env add NEXT_PUBLIC_GA_ID
 
 ## License
 
-© 2025 Crazy Cattle 3D. All rights reserved. 
+© 2025 SoFlo Wheelie Life. All rights reserved.

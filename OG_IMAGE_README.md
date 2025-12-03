@@ -27,7 +27,7 @@
     }}
   >
     <img
-      src="https://crazy-cattle.net/assets/img/android-chrome-512x512.png"
+      src="https://www.soflowheelielife.dev/assets/img/android-chrome-512x512.png"
       width="200"
       height="200"
     />
@@ -39,7 +39,7 @@
         marginTop: '20px',
       }}
     >
-      Crazy Cattle 3D
+      SoFlo Wheelie Life
     </h1>
     <p
       style={{
@@ -47,7 +47,7 @@
         color: '#666',
       }}
     >
-      Free 3D Action Game
+      Free Motorcycle Stunt Game
     </p>
   </div>
 </div>
@@ -73,7 +73,7 @@
 1. 代码粘贴后会自动预览
 2. 检查图片效果
 3. 点击"Download"下载生成的图片
-4. 将图片保存为 `crazy-cattle-3d-og-image.png`
+4. 将图片保存为 `soflowheelielife-og-image.png`
 5. 放置到 `/public/assets/img/` 目录下
 
 ## 使用位置
@@ -99,7 +99,7 @@
   }}
 >
   <img
-    src="https://crazy-cattle.net/assets/img/android-chrome-512x512.png"
+    src="https://www.soflowheelielife.dev/assets/img/android-chrome-512x512.png"
     width="800"
     height="800"
     style={{
@@ -144,6 +144,6 @@ filter: 'grayscale(100%) contrast(1000%) brightness(0.8)'
 在 `config/site.ts` 中已配置：
 ```typescript
 images: {
-  og: "/assets/img/crazy-cattle-3d-og-image.png"
+  og: "/assets/img/soflowheelielife-og-image.png"
 }
 ```

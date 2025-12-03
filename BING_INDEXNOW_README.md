@@ -12,17 +12,14 @@
 curl -X POST "https://www.bing.com/IndexNow" \
   -H "Content-Type: application/json; charset=utf-8" \
   -d '{
-    "host": "crazy-cattle.net",
+    "host": "www.soflowheelielife.dev",
     "key": "60c1f021f8bf4251a63eace188cfc920",
-    "keyLocation": "https://crazy-cattle.net/60c1f021f8bf4251a63eace188cfc920.txt",
+    "keyLocation": "https://www.soflowheelielife.dev/60c1f021f8bf4251a63eace188cfc920.txt",
     "urlList": [
-      "https://crazy-cattle.net/",
-      "https://crazy-cattle.net/crazy-chicken-3d",
-      "https://crazy-cattle.net/crazy-cow-3d",
-      "https://crazy-cattle.net/cheese-chompers-3d",
-      "https://crazy-cattle.net/basketball-bros-unblocked",
-      "https://crazy-cattle.net/brainrot-clicker",
-      "https://crazy-cattle.net/pokemon-gamma-emerald"
+      "https://www.soflowheelielife.dev/",
+      "https://www.soflowheelielife.dev/street-wheelie",
+      "https://www.soflowheelielife.dev/stickman-bike",
+      "https://www.soflowheelielife.dev/wheelie-life"
     ]
   }'
 ```

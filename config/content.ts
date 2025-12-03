@@ -27,18 +27,15 @@ export const content = {
     quickLinks: {
       title: "Quick Links",
       links: [
-        { text: "Telegram", href: "https://t.me/s/free_unblocked_games" },
-        { text: "CAL", href: "https://cal.com/vincent-ai" },
-        { text: "Patreon", href: "https://www.patreon.com/posts/play-free-crazy-130738673" },
-        { text: "Linktr", href: "https://linktr.ee/vincent20250520" },
-        { text: "Creem", href: "https://www.creem.io/bip/vincent-ai" },
-        { text: "GetAllMyLinks", href: "https://getallmylinks.com/vincent" },
-        { text: "AllMyLinks", href: "https://allmylinks.com/vincent04065" },
-        { text: "Pinterest | Crazy Cattle 3D", href: "https://www.pinterest.com/pin/581245895696208484/" },
-        { text: "Pinterest | Doodle Baseball", href: "https://www.pinterest.com/pin/581245895696901681/" },
-        { text: "Github | Crazy Cattle 3D", href: "https://github.com/WeiWenxing/crazycattle3d/blob/main/README_EN.md" },
-        { text: "H5 Joy Games", href: "https://h5joy.org" },
-        { text: "Shootz Game", href: "https://shootz.net" },
+        { text: "Telegram", href: "https://t.me/isaac_free_games" },
+        { text: "CAL", href: "https://cal.com/isaac-mingyu" },
+        { text: "Patreon", href: "https://www.patreon.com/posts/144957222?pr=true" },
+        { text: "Linktr", href: "https://linktr.ee/Isaac_mingyu" },
+        // { text: "Creem", href: "https://www.creem.io/bip/vincent-ai" },
+        { text: "GetAllMyLinks", href: "https://gaml.app/isaac" },
+        { text: "AllMyLinks", href: "https://allmylinks.com/isaac-mingyu" },
+        { text: "Pinterest | SoFlo Wheelie Life", href: "https://pin.it/1tTYsCdmW" },
+        { text: "Github | SoFlo Wheelie Life", href: "https://github.com/oumingyu-224/SoFlo-Wheelie-Life" },
       ]
     },
     games: {  // 添加 games section
